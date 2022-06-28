@@ -37,4 +37,4 @@ before_script:
   - cp config/travis.exs config/test.exs
   
 script:
-  - mix test
+  - skip
